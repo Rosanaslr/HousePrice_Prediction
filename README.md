@@ -17,14 +17,14 @@ Import `HousePrices_Kaggle.ipynb` file to jupyter notebook and run.
 * Checked data distribution;
 * Normalized data using log10;
 * Checked data correlation using correlation matrix;
-* Selected data most likely to influence house price
+* Selected data most likely to influence house price;
 * Splitted training dataset into train and test data;
 * Trained multiple regression model using train data;
 * Calculated determination coefficient and model error;
 * Imported test dataset;
 * Checked for null and duplicated data;
 * Replaced null data with median;
-* Removed outliers
+* Removed outliers;
 * Checked data distribution;
 * Normalized data using log10;
 * Predicted house prices using test dataset;
